@@ -4,7 +4,7 @@ import ResumeBtn from "../components/ResumeBtn";
 import { navLinks, scaleAnimation } from "../lib/framer-motion-utils";
 import { motion } from "framer-motion";
 import { scrollToTop } from '../lib/utils';
-// import {Resume} from "../assets"
+import Resume from "../assets/Dx junior frontend developer resume.pdf"
 
 type MyComponentProps = {
   heading: string;
@@ -38,7 +38,7 @@ const LandingPage: React.FC<MyComponentProps> = ({ heading, text }) => {
 
       
 
-      <motion.a href='../assets/Dx junior frontend developer resume.pdf' download="Sammy's Resume" target='_blank' 
+      <motion.a href={Resume} download="Sammy's Resume" target='_blank' 
          rel="noopener noreferrer" variants={scaleAnimation} className="resume_btn">
         <ResumeBtn />
       </motion.a>
