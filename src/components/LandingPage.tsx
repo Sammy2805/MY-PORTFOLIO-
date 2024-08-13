@@ -38,7 +38,7 @@ const LandingPage: React.FC<MyComponentProps> = ({ heading, text }) => {
 
       
 
-      <motion.a href='../assets/Dx junior frontend developer resume.docx' download="Sammy's Resume" target='_blank' 
+      <motion.a href='../assets/Dx junior frontend developer resume.pdf' download="Sammy's Resume" target='_blank' 
          rel="noopener noreferrer" variants={scaleAnimation} className="resume_btn">
         <ResumeBtn />
       </motion.a>
