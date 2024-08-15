@@ -44,9 +44,10 @@ const Contact: FC = () => {
 
   const handleSubmit = async(e: React.FormEvent<HTMLFormElement>): Promise<void> => {
     e.preventDefault();
-    const templateId = "template_iww4crr";
-    const serviceId = "service_3f6fpv9";
-    const publicKey = "u8WdHH-h6tjgYvO3x";
+    const templateId = import.meta.env.VITE_REACT_TEMPLATE_ID;
+    const serviceId = import.meta.env.VITE_REACT_SERVICE_ID;
+    const publicKey = import.meta.env.VITE_REACT_PUBLIC_KEY;
+    console.log({templateId,serviceId,publicKey})
     const templateParams = {
       from_name: name,
       from_email: email,
