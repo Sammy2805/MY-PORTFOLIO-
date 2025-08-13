@@ -52,7 +52,7 @@ function App() {
       ],
       filters: "React",
       liveUrl: "https://glamora-three.vercel.app",
-      githubUrl: "https://github.com/clinton401/Glamora",
+      githubUrl: "https://github.com/Sammy2805",
     },
     {
       name: "Audiovista",
@@ -62,7 +62,7 @@ function App() {
       technologies: ["React", "JavaScript", "TailwindCSS"],
       filters: "React",
       liveUrl: "https://audiovista.netlify.app",
-      githubUrl: "https://github.com/clinton401/Audiovista",
+      githubUrl: "https://github.com/Sammy2805",
     },
     {
       name: "Cinematico",
@@ -72,7 +72,7 @@ function App() {
       technologies: ["React", "JavaScript", "TailwindCSS", "Axios", "SwiperJS"],
       filters: "React",
       liveUrl: "https://cinematico.netlify.app",
-      githubUrl: "https://github.com/clinton401/Cinematico",
+      githubUrl: "https://github.com/Sammy2805",
     },
     {
       name: "Worldsearch",
@@ -82,7 +82,7 @@ function App() {
       technologies: ["React", "JavaScript"],
       filters: "React",
       liveUrl: "https://worldsearch.netlify.app",
-      githubUrl: "https://github.com/clinton401/worldsearch",
+      githubUrl: "https://github.com/Sammy2805",
     },
     {
       name: "Getlinked",
@@ -91,7 +91,7 @@ function App() {
       technologies: ["React", "JavaScript"],
       filters: "React",
       liveUrl: "https://glinked.netlify.app/",
-      githubUrl: "https://github.com/clinton401/getlinked",
+      githubUrl: "https://github.com/Sammy2805",
     },
     {
       name: "Spacetour",
@@ -100,7 +100,7 @@ function App() {
       technologies: ["React", "JavaScript"],
       filters: "React",
       liveUrl: "https://spaceetour.netlify.app",
-      githubUrl: "https://github.com/clinton401/spacetour",
+      githubUrl: "https://github.com/Sammy2805",
     },
     {
       name: "Joy & Sharon",
@@ -109,8 +109,8 @@ function App() {
         "A charming wedding website showcasing event details, venue information, and a gallery of the couple's pictures.",
       technologies: ["HTMl", "CSS", "JavaScript", "SwiperJS"],
       filters: "HTML & CSS",
-      liveUrl: "https://spaceetour.netlify.app",
-      githubUrl: "https://github.com/clinton401/spacetour",
+      liveUrl: "https://cannan23.netlify.ap",
+      githubUrl: "https://github.com/Sammy2805",
     },
     {
       name: "Foodplug",
@@ -118,8 +118,8 @@ function App() {
       description: "A food eCommerce website.",
       technologies: ["HTMl", "CSS", "JavaScript"],
       filters: "HTML & CSS",
-      liveUrl: "https://cannan.netlify.app",
-      githubUrl: "https://github.com/clinton401/josha",
+      liveUrl: "https://foodplug1.netlify.app",
+      githubUrl: "https://github.com/Sammy2805",
     },
     {
       name: "GestureClash",
@@ -129,7 +129,7 @@ function App() {
       technologies: ["React", "JavaScript"],
         filters: "React",
       liveUrl: "https://gestureclash.netlify.app",
-      githubUrl: "https://github.com/clinton401/rock-paper-scissors",
+      githubUrl: "https://github.com/Sammy2805",
     },
   ];
   const experiences = [{
