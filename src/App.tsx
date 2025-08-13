@@ -109,7 +109,7 @@ function App() {
         "A charming wedding website showcasing event details, venue information, and a gallery of the couple's pictures.",
       technologies: ["HTMl", "CSS", "JavaScript", "SwiperJS"],
       filters: "HTML & CSS",
-      liveUrl: "https://canaan23.netlify.ap",
+      liveUrl: "https://canaan23.netlify.app",
       githubUrl: "https://github.com/Sammy2805",
     },
     {
